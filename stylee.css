@@ -1,0 +1,70 @@
+
+body {
+	background-color: hotpink;
+}
+image{border-radius: ;}
+
+h1{text-decoration: underline;
+color:hotpink;
+font-family: 'Hurricane', cursive;}
+{background-color: pink;}
+h2,h3{
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	color: lightpink;
+}
+
+p{font-family: 'Roboto', sans-serif;}
+li{font-family: 'Roboto', sans-serif;}
+
+.warning {
+	background-color: whitesmoke;
+text-align: center;
+padding: 24px;
+width: 70%;
+margin: 16px auto;
+border-radius: 6px;
+box-shadow: 1px 1px 5px 2px #000000b5;
+}
+
+.help {
+	background-color: whitesmoke;
+text-align: center;
+padding: 24px;
+width: 50%;
+margin: 16px ;
+margin-right: 10px;
+border-radius: 6px;
+box-shadow: 1px 1px 5px 2px #000000b5;
+}
+
+.rest { 
+	background-color: whitesmoke;
+text-align: center;
+padding: 24px;
+width: 50%;
+margin: 16px;
+margin margin-left: 10px;
+border-radius: 6px;
+box-shadow: 1px 1px 5px 2px #000000b5;
+}
+
+.cards-flex {
+	display: flex;
+}
+#hind{width: 200px;
+border-radius: 50%;
+border: 1px solid black;
+object-fit: cover;}
+
+.lol{background-color: darkred;
+color: whitesmoke;
+padding: 5px 18px;
+border-radius: 30px;
+font-weight: bolder;
+display: block;
+width: 20%;
+margin: 0 auto;
+border: 1px black;
+transition: 1s;}
